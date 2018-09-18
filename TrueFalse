@@ -1,0 +1,9 @@
+x = float(input("x:"))
+y = float(input("y:"))
+z = float(input("z:"))
+
+if (x < y < z) or (x > y > z):
+	print("True")
+
+else:
+	print("False")
