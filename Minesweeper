@@ -1,0 +1,17 @@
+import sys
+import random
+
+column = []
+row = []
+
+w = int(sys.argv[1])
+l = int(sys.argv[2])
+h = int(sys.argv[3])
+
+for i in range(b)
+	x = random.randint(0, h)
+	y = random.randint(0, w)
+	for a in range(b):
+		row.insert(*)
+		collumn.insert(*)
+
